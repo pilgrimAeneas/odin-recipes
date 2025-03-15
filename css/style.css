@@ -3,3 +3,21 @@
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.center {
+    margin: 16px auto;
+}
+
+.image {
+    width: fit-content;
+}
+
+.title {
+    width: fit-content;
+}
+
+.pages {
+    padding: 16px;
+    width: fit-content;
+}
+
