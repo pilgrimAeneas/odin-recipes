@@ -21,3 +21,10 @@
     width: fit-content;
 }
 
+.page {
+    text-decoration: none;
+}
+
+.page:hover {
+    text-decoration: underline;
+}
